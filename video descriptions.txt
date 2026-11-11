@@ -1,0 +1,6 @@
+Videos: 
+Additionally, we show three videos, two at temperatures (T=60K) below the critical temperature 
+(538rho_60T.mp4), to show that the fluid is nonhomogeneous.  
+The other one (538rho_140T.mp4 and 538rho_570T.mp4) is at (T = 140 and 570K) above the critical temperature and shows that the system 
+is visually homogeneous. The density in all cases is rho = 538 kg/m3 for the AVTZ++ model.
+
